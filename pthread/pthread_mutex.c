@@ -1,4 +1,4 @@
-/*利用互斥锁同步的多线程程序*/
+/*利用互斥锁同步的多线程程序 顺序执行*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
